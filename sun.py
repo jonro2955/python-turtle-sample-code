@@ -1,5 +1,6 @@
 import turtle
 t = turtle.Turtle()
+t.speed(9)
 t.color('red', 'yellow')
 t.begin_fill()
 while True:
